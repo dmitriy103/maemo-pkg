@@ -1,0 +1,771 @@
+[submodule "xdg-user-dirs"]
+	path = xdg-user-dirs
+	url = git://gitorious.org/maemo-pkg/xdg-user-dirs.git
+[submodule "sqlite3"]
+	path = sqlite3
+	url = git://gitorious.org/maemo-pkg/sqlite3.git
+[submodule "libgee"]
+	path = libgee
+	url = git://gitorious.org/maemo-pkg/libgee.git
+[submodule "epydoc"]
+	path = epydoc
+	url = git://gitorious.org/maemo-pkg/epydoc.git
+[submodule "tiff"]
+	path = tiff
+	url = git://gitorious.org/maemo-pkg/tiff.git
+[submodule "pango10"]
+	path = pango10
+	url = git://gitorious.org/maemo-pkg/pango10.git
+[submodule "libarchive"]
+	path = libarchive
+	url = git://gitorious.org/maemo-pkg/libarchive.git
+[submodule "shared-mime-info"]
+	path = shared-mime-info
+	url = git://gitorious.org/maemo-pkg/shared-mime-info.git
+[submodule "perl"]
+	path = perl
+	url = git://gitorious.org/maemo-pkg/perl.git
+[submodule "apt"]
+	path = apt
+	url = git://gitorious.org/maemo-pkg/apt.git
+[submodule "lsof"]
+	path = lsof
+	url = git://gitorious.org/maemo-pkg/lsof.git
+[submodule "exempi"]
+	path = exempi
+	url = git://gitorious.org/maemo-pkg/exempi.git
+[submodule "db"]
+	path = db
+	url = git://gitorious.org/maemo-pkg/db.git
+[submodule "slang2"]
+	path = slang2
+	url = git://gitorious.org/maemo-pkg/slang2.git
+[submodule "texlive-doc"]
+	path = texlive-doc
+	url = git://gitorious.org/maemo-pkg/texlive-doc.git
+[submodule "luatex"]
+	path = luatex
+	url = git://gitorious.org/maemo-pkg/luatex.git
+[submodule "tipa"]
+	path = tipa
+	url = git://gitorious.org/maemo-pkg/tipa.git
+[submodule "pcre3"]
+	path = pcre3
+	url = git://gitorious.org/maemo-pkg/pcre3.git
+[submodule "tinycdb"]
+	path = tinycdb
+	url = git://gitorious.org/maemo-pkg/tinycdb.git
+[submodule "po4a"]
+	path = po4a
+	url = git://gitorious.org/maemo-pkg/po4a.git
+[submodule "fontforge"]
+	path = fontforge
+	url = git://gitorious.org/maemo-pkg/fontforge.git
+[submodule "tar"]
+	path = tar
+	url = git://gitorious.org/maemo-pkg/tar.git
+[submodule "qjson"]
+	path = qjson
+	url = git://gitorious.org/maemo-pkg/qjson.git
+[submodule "python-apt"]
+	path = python-apt
+	url = git://gitorious.org/maemo-pkg/python-apt.git
+[submodule "xz-utils"]
+	path = xz-utils
+	url = git://gitorious.org/maemo-pkg/xz-utils.git
+[submodule "ghostscript"]
+	path = ghostscript
+	url = git://gitorious.org/maemo-pkg/ghostscript.git
+[submodule "xdg-utils"]
+	path = xdg-utils
+	url = git://gitorious.org/maemo-pkg/xdg-utils.git
+[submodule "markupsafe"]
+	path = markupsafe
+	url = git://gitorious.org/maemo-pkg/markupsafe.git
+[submodule "ed"]
+	path = ed
+	url = git://gitorious.org/maemo-pkg/ed.git
+[submodule "dblatex"]
+	path = dblatex
+	url = git://gitorious.org/maemo-pkg/dblatex.git
+[submodule "debconf"]
+	path = debconf
+	url = git://gitorious.org/maemo-pkg/debconf.git
+[submodule "dctrl-tools"]
+	path = dctrl-tools
+	url = git://gitorious.org/maemo-pkg/dctrl-tools.git
+[submodule "jinja2"]
+	path = jinja2
+	url = git://gitorious.org/maemo-pkg/jinja2.git
+[submodule "devscripts"]
+	path = devscripts
+	url = git://gitorious.org/maemo-pkg/devscripts.git
+[submodule "liburi-perl"]
+	path = liburi-perl
+	url = git://gitorious.org/maemo-pkg/liburi-perl.git
+[submodule "vala"]
+	path = vala
+	url = git://gitorious.org/maemo-pkg/vala.git
+[submodule "gnome-common"]
+	path = gnome-common
+	url = git://gitorious.org/maemo-pkg/gnome-common.git
+[submodule "python-central"]
+	path = python-central
+	url = git://gitorious.org/maemo-pkg/python-central.git
+[submodule "lcov"]
+	path = lcov
+	url = git://gitorious.org/maemo-pkg/lcov.git
+[submodule "gdbm"]
+	path = gdbm
+	url = git://gitorious.org/maemo-pkg/gdbm.git
+[submodule "ucf"]
+	path = ucf
+	url = git://gitorious.org/maemo-pkg/ucf.git
+[submodule "libtext-charwidth-perl"]
+	path = libtext-charwidth-perl
+	url = git://gitorious.org/maemo-pkg/libtext-charwidth-perl.git
+[submodule "lua51"]
+	path = lua51
+	url = git://gitorious.org/maemo-pkg/lua51.git
+[submodule "libtext-wrapi18n-perl"]
+	path = libtext-wrapi18n-perl
+	url = git://gitorious.org/maemo-pkg/libtext-wrapi18n-perl.git
+[submodule "libtext-iconv-perl"]
+	path = libtext-iconv-perl
+	url = git://gitorious.org/maemo-pkg/libtext-iconv-perl.git
+[submodule "d-shlibs"]
+	path = d-shlibs
+	url = git://gitorious.org/maemo-pkg/d-shlibs.git
+[submodule "libpod-coverage-perl"]
+	path = libpod-coverage-perl
+	url = git://gitorious.org/maemo-pkg/libpod-coverage-perl.git
+[submodule "libhook-lexwrap-perl2"]
+	path = libhook-lexwrap-perl2
+	url = git://gitorious.org/maemo-pkg/libhook-lexwrap-perl2.git
+[submodule "chardet"]
+	path = chardet
+	url = git://gitorious.org/maemo-pkg/chardet.git
+[submodule "file"]
+	path = file
+	url = git://gitorious.org/maemo-pkg/file.git
+[submodule "shtool"]
+	path = shtool
+	url = git://gitorious.org/maemo-pkg/shtool.git
+[submodule "python-docutils"]
+	path = python-docutils
+	url = git://gitorious.org/maemo-pkg/python-docutils.git
+[submodule "python-distutils-extra"]
+	path = python-distutils-extra
+	url = git://gitorious.org/maemo-pkg/python-distutils-extra.git
+[submodule "python-debian"]
+	path = python-debian
+	url = git://gitorious.org/maemo-pkg/python-debian.git
+[submodule "libyaml-tiny-perl"]
+	path = libyaml-tiny-perl
+	url = git://gitorious.org/maemo-pkg/libyaml-tiny-perl.git
+[submodule "libtest-subcalls-perl"]
+	path = libtest-subcalls-perl
+	url = git://gitorious.org/maemo-pkg/libtest-subcalls-perl.git
+[submodule "libtest-script-perl"]
+	path = libtest-script-perl
+	url = git://gitorious.org/maemo-pkg/libtest-script-perl.git
+[submodule "libperl-minimumversion-perl"]
+	path = libperl-minimumversion-perl
+	url = git://gitorious.org/maemo-pkg/libperl-minimumversion-perl.git
+[submodule "libhtml-parser-perl"]
+	path = libhtml-parser-perl
+	url = git://gitorious.org/maemo-pkg/libhtml-parser-perl.git
+[submodule "libfile-find-rule-perl-perl"]
+	path = libfile-find-rule-perl-perl
+	url = git://gitorious.org/maemo-pkg/libfile-find-rule-perl-perl.git
+[submodule "libalgorithm-diff-perl"]
+	path = libalgorithm-diff-perl
+	url = git://gitorious.org/maemo-pkg/libalgorithm-diff-perl.git
+[submodule "debhelper"]
+	path = debhelper
+	url = git://gitorious.org/maemo-pkg/debhelper.git
+[submodule "eperl"]
+	path = eperl
+	url = git://gitorious.org/maemo-pkg/eperl.git
+[submodule "libppi-perl"]
+	path = libppi-perl
+	url = git://gitorious.org/maemo-pkg/libppi-perl.git
+[submodule "libppix-utilities-perl"]
+	path = libppix-utilities-perl
+	url = git://gitorious.org/maemo-pkg/libppix-utilities-perl.git
+[submodule "libppix-regexp-perl"]
+	path = libppix-regexp-perl
+	url = git://gitorious.org/maemo-pkg/libppix-regexp-perl.git
+[submodule "libextutils-parsexs-perl"]
+	path = libextutils-parsexs-perl
+	url = git://gitorious.org/maemo-pkg/libextutils-parsexs-perl.git
+[submodule "libperl-critic-perl"]
+	path = libperl-critic-perl
+	url = git://gitorious.org/maemo-pkg/libperl-critic-perl.git
+[submodule "libexception-class-perl"]
+	path = libexception-class-perl
+	url = git://gitorious.org/maemo-pkg/libexception-class-perl.git
+[submodule "libcommon-sense-perl"]
+	path = libcommon-sense-perl
+	url = git://gitorious.org/maemo-pkg/libcommon-sense-perl.git
+[submodule "enca"]
+	path = enca
+	url = git://gitorious.org/maemo-pkg/enca.git
+[submodule "pyxdg"]
+	path = pyxdg
+	url = git://gitorious.org/maemo-pkg/pyxdg.git
+[submodule "libarchive-zip-perl"]
+	path = libarchive-zip-perl
+	url = git://gitorious.org/maemo-pkg/libarchive-zip-perl.git
+[submodule "libyaml-perl"]
+	path = libyaml-perl
+	url = git://gitorious.org/maemo-pkg/libyaml-perl.git
+[submodule "nano"]
+	path = nano
+	url = git://gitorious.org/maemo-pkg/nano.git
+[submodule "cdbs"]
+	path = cdbs
+	url = git://gitorious.org/maemo-pkg/cdbs.git
+[submodule "jbig2dec"]
+	path = jbig2dec
+	url = git://gitorious.org/maemo-pkg/jbig2dec.git
+[submodule "gobject-introspection"]
+	path = gobject-introspection
+	url = git://gitorious.org/maemo-pkg/gobject-introspection.git
+[submodule "libwww-perl"]
+	path = libwww-perl
+	url = git://gitorious.org/maemo-pkg/libwww-perl.git
+[submodule "libsub-exporter-perl"]
+	path = libsub-exporter-perl
+	url = git://gitorious.org/maemo-pkg/libsub-exporter-perl.git
+[submodule "libsoftware-license-perl"]
+	path = libsoftware-license-perl
+	url = git://gitorious.org/maemo-pkg/libsoftware-license-perl.git
+[submodule "libdata-section-perl"]
+	path = libdata-section-perl
+	url = git://gitorious.org/maemo-pkg/libdata-section-perl.git
+[submodule "gsfonts"]
+	path = gsfonts
+	url = git://gitorious.org/maemo-pkg/gsfonts.git
+[submodule "debiandoc-sgml"]
+	path = debiandoc-sgml
+	url = git://gitorious.org/maemo-pkg/debiandoc-sgml.git
+[submodule "attr"]
+	path = attr
+	url = git://gitorious.org/maemo-pkg/attr.git
+[submodule "acl"]
+	path = acl
+	url = git://gitorious.org/maemo-pkg/acl.git
+[submodule "sphinx"]
+	path = sphinx
+	url = git://gitorious.org/maemo-pkg/sphinx.git
+[submodule "jquery"]
+	path = jquery
+	url = git://gitorious.org/maemo-pkg/jquery.git
+[submodule "asciidoc"]
+	path = asciidoc
+	url = git://gitorious.org/maemo-pkg/asciidoc.git
+[submodule "automake110"]
+	path = automake110
+	url = git://gitorious.org/maemo-pkg/automake110.git
+[submodule "libtest-minimumversion-perl"]
+	path = libtest-minimumversion-perl
+	url = git://gitorious.org/maemo-pkg/libtest-minimumversion-perl.git
+[submodule "libtest-cpan-meta-perl"]
+	path = libtest-cpan-meta-perl
+	url = git://gitorious.org/maemo-pkg/libtest-cpan-meta-perl.git
+[submodule "libpod-simple-perl"]
+	path = libpod-simple-perl
+	url = git://gitorious.org/maemo-pkg/libpod-simple-perl.git
+[submodule "intltool"]
+	path = intltool
+	url = git://gitorious.org/maemo-pkg/intltool.git
+[submodule "quilt"]
+	path = quilt
+	url = git://gitorious.org/maemo-pkg/quilt.git
+[submodule "automake1111"]
+	path = automake1111
+	url = git://gitorious.org/maemo-pkg/automake1111.git
+[submodule "patchutils"]
+	path = patchutils
+	url = git://gitorious.org/maemo-pkg/patchutils.git
+[submodule "linuxdoc-tools"]
+	path = linuxdoc-tools
+	url = git://gitorious.org/maemo-pkg/linuxdoc-tools.git
+[submodule "libtest-exception-perl"]
+	path = libtest-exception-perl
+	url = git://gitorious.org/maemo-pkg/libtest-exception-perl.git
+[submodule "libbusiness-isbn-perl"]
+	path = libbusiness-isbn-perl
+	url = git://gitorious.org/maemo-pkg/libbusiness-isbn-perl.git
+[submodule "libmro-compat-perl"]
+	path = libmro-compat-perl
+	url = git://gitorious.org/maemo-pkg/libmro-compat-perl.git
+[submodule "libdevel-stacktrace-perl"]
+	path = libdevel-stacktrace-perl
+	url = git://gitorious.org/maemo-pkg/libdevel-stacktrace-perl.git
+[submodule "liblist-moreutils-perl"]
+	path = liblist-moreutils-perl
+	url = git://gitorious.org/maemo-pkg/liblist-moreutils-perl.git
+[submodule "libtest-pod-perl"]
+	path = libtest-pod-perl
+	url = git://gitorious.org/maemo-pkg/libtest-pod-perl.git
+[submodule "libparams-util-perl"]
+	path = libparams-util-perl
+	url = git://gitorious.org/maemo-pkg/libparams-util-perl.git
+[submodule "libtest-object-perl"]
+	path = libtest-object-perl
+	url = git://gitorious.org/maemo-pkg/libtest-object-perl.git
+[submodule "libclone-perl"]
+	path = libclone-perl
+	url = git://gitorious.org/maemo-pkg/libclone-perl.git
+[submodule "libtest-classapi-perl"]
+	path = libtest-classapi-perl
+	url = git://gitorious.org/maemo-pkg/libtest-classapi-perl.git
+[submodule "libclass-c3-perl"]
+	path = libclass-c3-perl
+	url = git://gitorious.org/maemo-pkg/libclass-c3-perl.git
+[submodule "liblocale-gettext-perl"]
+	path = liblocale-gettext-perl
+	url = git://gitorious.org/maemo-pkg/liblocale-gettext-perl.git
+[submodule "docbook-xml"]
+	path = docbook-xml
+	url = git://gitorious.org/maemo-pkg/docbook-xml.git
+[submodule "libsub-name-perl"]
+	path = libsub-name-perl
+	url = git://gitorious.org/maemo-pkg/libsub-name-perl.git
+[submodule "python-dateutil"]
+	path = python-dateutil
+	url = git://gitorious.org/maemo-pkg/python-dateutil.git
+[submodule "libmodule-build-perl"]
+	path = libmodule-build-perl
+	url = git://gitorious.org/maemo-pkg/libmodule-build-perl.git
+[submodule "libmixin-linewise-perl"]
+	path = libmixin-linewise-perl
+	url = git://gitorious.org/maemo-pkg/libmixin-linewise-perl.git
+[submodule "docbook"]
+	path = docbook
+	url = git://gitorious.org/maemo-pkg/docbook.git
+[submodule "libpod-coverage-trustpod-perl"]
+	path = libpod-coverage-trustpod-perl
+	url = git://gitorious.org/maemo-pkg/libpod-coverage-trustpod-perl.git
+[submodule "libterm-readkey-perl"]
+	path = libterm-readkey-perl
+	url = git://gitorious.org/maemo-pkg/libterm-readkey-perl.git
+[submodule "libxml-parser-perl"]
+	path = libxml-parser-perl
+	url = git://gitorious.org/maemo-pkg/libxml-parser-perl.git
+[submodule "libgd-gd2-noxpm-perl"]
+	path = libgd-gd2-noxpm-perl
+	url = git://gitorious.org/maemo-pkg/libgd-gd2-noxpm-perl.git
+[submodule "libintl-perl"]
+	path = libintl-perl
+	url = git://gitorious.org/maemo-pkg/libintl-perl.git
+[submodule "libpod-spell-perl"]
+	path = libpod-spell-perl
+	url = git://gitorious.org/maemo-pkg/libpod-spell-perl.git
+[submodule "libalgorithm-c3-perl"]
+	path = libalgorithm-c3-perl
+	url = git://gitorious.org/maemo-pkg/libalgorithm-c3-perl.git
+[submodule "libxml-dom-perl"]
+	path = libxml-dom-perl
+	url = git://gitorious.org/maemo-pkg/libxml-dom-perl.git
+[submodule "libtie-cphash-perl"]
+	path = libtie-cphash-perl
+	url = git://gitorious.org/maemo-pkg/libtie-cphash-perl.git
+[submodule "xauth"]
+	path = xauth
+	url = git://gitorious.org/maemo-pkg/xauth.git
+[submodule "libfile-remove-perl"]
+	path = libfile-remove-perl
+	url = git://gitorious.org/maemo-pkg/libfile-remove-perl.git
+[submodule "libsub-install-perl"]
+	path = libsub-install-perl
+	url = git://gitorious.org/maemo-pkg/libsub-install-perl.git
+[submodule "libtest-pod-coverage-perl"]
+	path = libtest-pod-coverage-perl
+	url = git://gitorious.org/maemo-pkg/libtest-pod-coverage-perl.git
+[submodule "libclass-c3-xs-perl"]
+	path = libclass-c3-xs-perl
+	url = git://gitorious.org/maemo-pkg/libclass-c3-xs-perl.git
+[submodule "libfile-desktopentry-perl"]
+	path = libfile-desktopentry-perl
+	url = git://gitorious.org/maemo-pkg/libfile-desktopentry-perl.git
+[submodule "help2man"]
+	path = help2man
+	url = git://gitorious.org/maemo-pkg/help2man.git
+[submodule "libtest-perl-critic-perl"]
+	path = libtest-perl-critic-perl
+	url = git://gitorious.org/maemo-pkg/libtest-perl-critic-perl.git
+[submodule "libreadonly-xs-perl"]
+	path = libreadonly-xs-perl
+	url = git://gitorious.org/maemo-pkg/libreadonly-xs-perl.git
+[submodule "libpar-dist-perl"]
+	path = libpar-dist-perl
+	url = git://gitorious.org/maemo-pkg/libpar-dist-perl.git
+[submodule "python-crypto"]
+	path = python-crypto
+	url = git://gitorious.org/maemo-pkg/python-crypto.git
+[submodule "libcompress-bzip2-perl"]
+	path = libcompress-bzip2-perl
+	url = git://gitorious.org/maemo-pkg/libcompress-bzip2-perl.git
+[submodule "libdata-optlist-perl"]
+	path = libdata-optlist-perl
+	url = git://gitorious.org/maemo-pkg/libdata-optlist-perl.git
+[submodule "libfile-basedir-perl"]
+	path = libfile-basedir-perl
+	url = git://gitorious.org/maemo-pkg/libfile-basedir-perl.git
+[submodule "libfile-spec-perl"]
+	path = libfile-spec-perl
+	url = git://gitorious.org/maemo-pkg/libfile-spec-perl.git
+[submodule "libpod-eventual-perl"]
+	path = libpod-eventual-perl
+	url = git://gitorious.org/maemo-pkg/libpod-eventual-perl.git
+[submodule "pygments"]
+	path = pygments
+	url = git://gitorious.org/maemo-pkg/pygments.git
+[submodule "autoconf"]
+	path = autoconf
+	url = git://gitorious.org/maemo-pkg/autoconf.git
+[submodule "libjson-xs-perl"]
+	path = libjson-xs-perl
+	url = git://gitorious.org/maemo-pkg/libjson-xs-perl.git
+[submodule "libjson-perl"]
+	path = libjson-perl
+	url = git://gitorious.org/maemo-pkg/libjson-perl.git
+[submodule "sed"]
+	path = sed
+	url = git://gitorious.org/maemo-pkg/sed.git
+[submodule "cpio"]
+	path = cpio
+	url = git://gitorious.org/maemo-pkg/cpio.git
+[submodule "procmail"]
+	path = procmail
+	url = git://gitorious.org/maemo-pkg/procmail.git
+[submodule "gnome-pkg-tools"]
+	path = gnome-pkg-tools
+	url = git://gitorious.org/maemo-pkg/gnome-pkg-tools.git
+[submodule "grep"]
+	path = grep
+	url = git://gitorious.org/maemo-pkg/grep.git
+[submodule "desktop-file-utils"]
+	path = desktop-file-utils
+	url = git://gitorious.org/maemo-pkg/desktop-file-utils.git
+[submodule "sharutils"]
+	path = sharutils
+	url = git://gitorious.org/maemo-pkg/sharutils.git
+[submodule "libxml-regexp-perl"]
+	path = libxml-regexp-perl
+	url = git://gitorious.org/maemo-pkg/libxml-regexp-perl.git
+[submodule "libxml-perl"]
+	path = libxml-perl
+	url = git://gitorious.org/maemo-pkg/libxml-perl.git
+[submodule "liblockfile"]
+	path = liblockfile
+	url = git://gitorious.org/maemo-pkg/liblockfile.git
+[submodule "libdevel-symdump-perl"]
+	path = libdevel-symdump-perl
+	url = git://gitorious.org/maemo-pkg/libdevel-symdump-perl.git
+[submodule "groff"]
+	path = groff
+	url = git://gitorious.org/maemo-pkg/groff.git
+[submodule "giflib"]
+	path = giflib
+	url = git://gitorious.org/maemo-pkg/giflib.git
+[submodule "gettext"]
+	path = gettext
+	url = git://gitorious.org/maemo-pkg/gettext.git
+[submodule "defoma"]
+	path = defoma
+	url = git://gitorious.org/maemo-pkg/defoma.git
+[submodule "xmlto"]
+	path = xmlto
+	url = git://gitorious.org/maemo-pkg/xmlto.git
+[submodule "xml-core"]
+	path = xml-core
+	url = git://gitorious.org/maemo-pkg/xml-core.git
+[submodule "x11-utils"]
+	path = x11-utils
+	url = git://gitorious.org/maemo-pkg/x11-utils.git
+[submodule "unac"]
+	path = unac
+	url = git://gitorious.org/maemo-pkg/unac.git
+[submodule "timedate"]
+	path = timedate
+	url = git://gitorious.org/maemo-pkg/timedate.git
+[submodule "texlive-lang"]
+	path = texlive-lang
+	url = git://gitorious.org/maemo-pkg/texlive-lang.git
+[submodule "texlive-extra"]
+	path = texlive-extra
+	url = git://gitorious.org/maemo-pkg/texlive-extra.git
+[submodule "texlive-bin"]
+	path = texlive-bin
+	url = git://gitorious.org/maemo-pkg/texlive-bin.git
+[submodule "texlive-base"]
+	path = texlive-base
+	url = git://gitorious.org/maemo-pkg/texlive-base.git
+[submodule "texinfo"]
+	path = texinfo
+	url = git://gitorious.org/maemo-pkg/texinfo.git
+[submodule "texi2html"]
+	path = texi2html
+	url = git://gitorious.org/maemo-pkg/texi2html.git
+[submodule "tex-common"]
+	path = tex-common
+	url = git://gitorious.org/maemo-pkg/tex-common.git
+[submodule "tcl8_5"]
+	path = tcl8_5
+	url = git://gitorious.org/maemo-pkg/tcl8_5.git
+[submodule "tcl84"]
+	path = tcl84
+	url = git://gitorious.org/maemo-pkg/tcl84.git
+[submodule "tcl83"]
+	path = tcl83
+	url = git://gitorious.org/maemo-pkg/tcl83.git
+[submodule "sgmltools-lite"]
+	path = sgmltools-lite
+	url = git://gitorious.org/maemo-pkg/sgmltools-lite.git
+[submodule "sgml-data"]
+	path = sgml-data
+	url = git://gitorious.org/maemo-pkg/sgml-data.git
+[submodule "sgml-base"]
+	path = sgml-base
+	url = git://gitorious.org/maemo-pkg/sgml-base.git
+[submodule "python-old-doctools"]
+	path = python-old-doctools
+	url = git://gitorious.org/maemo-pkg/python-old-doctools.git
+[submodule "psutils"]
+	path = psutils
+	url = git://gitorious.org/maemo-pkg/psutils.git
+[submodule "poppler"]
+	path = poppler
+	url = git://gitorious.org/maemo-pkg/poppler.git
+[submodule "perltidy"]
+	path = perltidy
+	url = git://gitorious.org/maemo-pkg/perltidy.git
+[submodule "patch"]
+	path = patch
+	url = git://gitorious.org/maemo-pkg/patch.git
+[submodule "opensp"]
+	path = opensp
+	url = git://gitorious.org/maemo-pkg/opensp.git
+[submodule "openjade"]
+	path = openjade
+	url = git://gitorious.org/maemo-pkg/openjade.git
+[submodule "mawk"]
+	path = mawk
+	url = git://gitorious.org/maemo-pkg/mawk.git
+[submodule "m4"]
+	path = m4
+	url = git://gitorious.org/maemo-pkg/m4.git
+[submodule "lzma"]
+	path = lzma
+	url = git://gitorious.org/maemo-pkg/lzma.git
+[submodule "libtool"]
+	path = libtool
+	url = git://gitorious.org/maemo-pkg/libtool.git
+[submodule "libtext-template-perl"]
+	path = libtext-template-perl
+	url = git://gitorious.org/maemo-pkg/libtext-template-perl.git
+[submodule "libtext-glob-perl"]
+	path = libtext-glob-perl
+	url = git://gitorious.org/maemo-pkg/libtext-glob-perl.git
+[submodule "libtext-format-perl"]
+	path = libtext-format-perl
+	url = git://gitorious.org/maemo-pkg/libtext-format-perl.git
+[submodule "libtext-diff-perl"]
+	path = libtext-diff-perl
+	url = git://gitorious.org/maemo-pkg/libtext-diff-perl.git
+[submodule "libtest-tester-perl"]
+	path = libtest-tester-perl
+	url = git://gitorious.org/maemo-pkg/libtest-tester-perl.git
+[submodule "libtest-simple-perl"]
+	path = libtest-simple-perl
+	url = git://gitorious.org/maemo-pkg/libtest-simple-perl.git
+[submodule "libtest-nowarnings-perl"]
+	path = libtest-nowarnings-perl
+	url = git://gitorious.org/maemo-pkg/libtest-nowarnings-perl.git
+[submodule "libtest-harness-perl"]
+	path = libtest-harness-perl
+	url = git://gitorious.org/maemo-pkg/libtest-harness-perl.git
+[submodule "libtest-differences-perl"]
+	path = libtest-differences-perl
+	url = git://gitorious.org/maemo-pkg/libtest-differences-perl.git
+[submodule "libtest-deep-perl"]
+	path = libtest-deep-perl
+	url = git://gitorious.org/maemo-pkg/libtest-deep-perl.git
+[submodule "libtask-weaken-perl"]
+	path = libtask-weaken-perl
+	url = git://gitorious.org/maemo-pkg/libtask-weaken-perl.git
+[submodule "libsub-uplevel-perl"]
+	path = libsub-uplevel-perl
+	url = git://gitorious.org/maemo-pkg/libsub-uplevel-perl.git
+[submodule "libstring-format-perl"]
+	path = libstring-format-perl
+	url = git://gitorious.org/maemo-pkg/libstring-format-perl.git
+[submodule "libspiro"]
+	path = libspiro
+	url = git://gitorious.org/maemo-pkg/libspiro.git
+[submodule "libroman-perl"]
+	path = libroman-perl
+	url = git://gitorious.org/maemo-pkg/libroman-perl.git
+[submodule "libreadonly-perl"]
+	path = libreadonly-perl
+	url = git://gitorious.org/maemo-pkg/libreadonly-perl.git
+[submodule "libprobe-perl-perl"]
+	path = libprobe-perl-perl
+	url = git://gitorious.org/maemo-pkg/libprobe-perl-perl.git
+[submodule "libparse-cpan-meta-perl"]
+	path = libparse-cpan-meta-perl
+	url = git://gitorious.org/maemo-pkg/libparse-cpan-meta-perl.git
+[submodule "libonig"]
+	path = libonig
+	url = git://gitorious.org/maemo-pkg/libonig.git
+[submodule "libnumber-compare-perl"]
+	path = libnumber-compare-perl
+	url = git://gitorious.org/maemo-pkg/libnumber-compare-perl.git
+[submodule "libipc-run3-perl"]
+	path = libipc-run3-perl
+	url = git://gitorious.org/maemo-pkg/libipc-run3-perl.git
+[submodule "libio-zlib-perl"]
+	path = libio-zlib-perl
+	url = git://gitorious.org/maemo-pkg/libio-zlib-perl.git
+[submodule "libio-string-perl"]
+	path = libio-string-perl
+	url = git://gitorious.org/maemo-pkg/libio-string-perl.git
+[submodule "libgd-gd2-perl"]
+	path = libgd-gd2-perl
+	url = git://gitorious.org/maemo-pkg/libgd-gd2-perl.git
+[submodule "libgd-barcode-perl"]
+	path = libgd-barcode-perl
+	url = git://gitorious.org/maemo-pkg/libgd-barcode-perl.git
+[submodule "libfile-which-perl"]
+	path = libfile-which-perl
+	url = git://gitorious.org/maemo-pkg/libfile-which-perl.git
+[submodule "libfile-homedir-perl"]
+	path = libfile-homedir-perl
+	url = git://gitorious.org/maemo-pkg/libfile-homedir-perl.git
+[submodule "libfile-find-rule-perl"]
+	path = libfile-find-rule-perl
+	url = git://gitorious.org/maemo-pkg/libfile-find-rule-perl.git
+[submodule "libextutils-cbuilder-perl"]
+	path = libextutils-cbuilder-perl
+	url = git://gitorious.org/maemo-pkg/libextutils-cbuilder-perl.git
+[submodule "libemail-address-perl"]
+	path = libemail-address-perl
+	url = git://gitorious.org/maemo-pkg/libemail-address-perl.git
+[submodule "libconfig-tiny-perl"]
+	path = libconfig-tiny-perl
+	url = git://gitorious.org/maemo-pkg/libconfig-tiny-perl.git
+[submodule "libclass-inspector-perl"]
+	path = libclass-inspector-perl
+	url = git://gitorious.org/maemo-pkg/libclass-inspector-perl.git
+[submodule "libclass-data-inheritable-perl"]
+	path = libclass-data-inheritable-perl
+	url = git://gitorious.org/maemo-pkg/libclass-data-inheritable-perl.git
+[submodule "libbusiness-isbn-data-perl"]
+	path = libbusiness-isbn-data-perl
+	url = git://gitorious.org/maemo-pkg/libbusiness-isbn-data-perl.git
+[submodule "libb-keywords-perl"]
+	path = libb-keywords-perl
+	url = git://gitorious.org/maemo-pkg/libb-keywords-perl.git
+[submodule "jadetex"]
+	path = jadetex
+	url = git://gitorious.org/maemo-pkg/jadetex.git
+[submodule "io-stringy"]
+	path = io-stringy
+	url = git://gitorious.org/maemo-pkg/io-stringy.git
+[submodule "html2text"]
+	path = html2text
+	url = git://gitorious.org/maemo-pkg/html2text.git
+[submodule "hostname"]
+	path = hostname
+	url = git://gitorious.org/maemo-pkg/hostname.git
+[submodule "gperf"]
+	path = gperf
+	url = git://gitorious.org/maemo-pkg/gperf.git
+[submodule "gmp"]
+	path = gmp
+	url = git://gitorious.org/maemo-pkg/gmp.git
+[submodule "gawk"]
+	path = gawk
+	url = git://gitorious.org/maemo-pkg/gawk.git
+[submodule "findutils"]
+	path = findutils
+	url = git://gitorious.org/maemo-pkg/findutils.git
+[submodule "emacsen-common"]
+	path = emacsen-common
+	url = git://gitorious.org/maemo-pkg/emacsen-common.git
+[submodule "doxygen"]
+	path = doxygen
+	url = git://gitorious.org/maemo-pkg/doxygen.git
+[submodule "docbook-xsl"]
+	path = docbook-xsl
+	url = git://gitorious.org/maemo-pkg/docbook-xsl.git
+[submodule "docbook-utils"]
+	path = docbook-utils
+	url = git://gitorious.org/maemo-pkg/docbook-utils.git
+[submodule "docbook-to-man"]
+	path = docbook-to-man
+	url = git://gitorious.org/maemo-pkg/docbook-to-man.git
+[submodule "docbook-dsssl"]
+	path = docbook-dsssl
+	url = git://gitorious.org/maemo-pkg/docbook-dsssl.git
+[submodule "db-defaults"]
+	path = db-defaults
+	url = git://gitorious.org/maemo-pkg/db-defaults.git
+[submodule "bc"]
+	path = bc
+	url = git://gitorious.org/maemo-pkg/bc.git
+[submodule "bash"]
+	path = bash
+	url = git://gitorious.org/maemo-pkg/bash.git
+[submodule "autotools-dev"]
+	path = autotools-dev
+	url = git://gitorious.org/maemo-pkg/autotools-dev.git
+[submodule "appconfig"]
+	path = appconfig
+	url = git://gitorious.org/maemo-pkg/appconfig.git
+[submodule "abi-compliance-checker"]
+	path = abi-compliance-checker
+	url = git://gitorious.org/maemo-pkg/abi-compliance-checker.git
+[submodule "dash"]
+	path = dash
+	url = git://gitorious.org/maemo-pkg/dash.git
+[submodule "libgd2"]
+	path = libgd2
+	url = git://gitorious.org/maemo-pkg/libgd2.git
+[submodule "emacs23"]
+	path = emacs23
+	url = git://gitorious.org/maemo-pkg/emacs23.git
+[submodule "gmime24"]
+	path = gmime24
+	url = git://gitorious.org/maemo-pkg/gmime24.git
+[submodule "test-wrong-component"]
+	path = test-wrong-component
+	url = git://gitorious.org/maemo-pkg/test-wrong-component.git
+[submodule "test-cycle-two"]
+	path = test-cycle-two
+	url = git://gitorious.org/maemo-pkg/test-cycle-two.git
+[submodule "test-cycle-one"]
+	path = test-cycle-one
+	url = git://gitorious.org/maemo-pkg/test-cycle-one.git
+[submodule "glib2"]
+	path = glib2
+	url = git://gitorious.org/maemo-pkg/glib2.git
+[submodule "dpkg"]
+	path = dpkg
+	url = git://gitorious.org/maemo-pkg/dpkg.git
+[submodule "gnupg"]
+	path = gnupg
+	url = git://gitorious.org/maemo-pkg/gnupg.git
+[submodule "shared-mime-info2"]
+	path = shared-mime-info2
+	url = git://gitorious.org/maemo-pkg/shared-mime-info2.git
+[submodule "fakeroot"]
+	path = fakeroot
+	url = git://gitorious.org/maemo-pkg/fakeroot.git
+[submodule "libcompress-zlib-perl"]
+	path = libcompress-zlib-perl
+	url = git://gitorious.org/maemo-pkg/libcompress-zlib-perl.git
